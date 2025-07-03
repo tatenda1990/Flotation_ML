@@ -1,4 +1,4 @@
-# MINTEK INTERVIEW QUESTION
+# Predicting Flotation Faults from a data set
 
 This project is designed to explore and implement a machine learning script for predicting faults using 4 features and 2 target variables. 
 
